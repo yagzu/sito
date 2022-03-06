@@ -1,0 +1,13 @@
+
+h1 {
+    color: rgb(113, 213, 253);
+    font-size: 100px;
+}
+
+body {
+    background-color: rgb(200, 255, 0);
+}
+p {
+    font-size: 50px;
+    color:lightsalmon;
+}
